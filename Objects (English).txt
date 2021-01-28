@@ -4,7 +4,7 @@
 
 // Please translate only text between "" marks
 
-// artefacts
+// Artefacts
 
 item translateNEBSTATUE "Statue Hand"
 item translateNEBCHRIST "Jesus"
@@ -14,15 +14,15 @@ item translateNEAENERGY "Energy"
 item translateNEAGIVESHIELD "Shield Generator"
 item translateNEAMAXHP "Full Repair"
 item translateNEAGIVEMONEY "Credits 10 000"
-item translateNEASHOWMAP0 "Show surface map"
-item translateNEASHOWMAP1 "Show tunnel map"
+item translateNEASHOWMAP0 "Show Surface map"
+item translateNEASHOWMAP1 "Show Tunnel map"
 item translateNEASPECIAL1 "Artifact"
 item translateNEASPECIAL2 "Artifact"
 item translateNEASPECIAL3 "Artifact"
 item translateNEASPECIAL4 "Artifact"
 item translateNEASPECIAL5 "Artifact"
 
-// Neutral objects and Ruins
+// Neutral Objects and Ruins
 item translateNEXTRASH1 "Rubble 1"
 item translateNEXTRASH2 "Rubble 2"
 item translateNEXTRASH3 "Rubble 3"
@@ -461,6 +461,7 @@ item translateLCUTA1 "Transporter"
 item translateLCUUFO "UFO"
 
 // Weapons ----------------------------------
+
 // ===== ED ===== ED ====== ED ======= ED ======= ED ======= ED ===== == ED
 item translateShortEDWMM21 "G"
 item translateEDWMM21 "Gun 21"
@@ -547,6 +548,7 @@ item translateEDWAB1 "Bomb-Bay (6 Bombs)"
 item translateEDWAB2 "Bomb-Bay (10 Bombs)"
 
 // Building weapons
+
 item translateEDCCH1 "MG"
 item translateEDCCH2 "Double MG"
 item translateEDCCA1 "Cannon"
@@ -571,7 +573,8 @@ item translateEDCHL3 "Heavy Laser Cannon UPG2"
 item translateEDCHI1 "Ion Cannon"
 item translateEDCHI2 "Ion Cannon"
 
-// special equipment
+// Special Equipment
+
 item translateShortEDSCA1 "Transporter"
 item translateEDSCA1 "Transporter"
 item translateShortEDSACA1 "Container"
@@ -588,7 +591,9 @@ item translateEDSCREAMER2 "Sound Generator UPG1"
 item translateEDSCREAMER3 "Sound Generator UPG2"
 
 // ===== UCS ====== UCS ====== UCS ====== UCS ======== UCS ======= UCS
+
 // Vechicle Weapons
+
 item translateShortUCSWTCH1 "MG"
 item translateUCSWTCH1 "MG"
 item translateUCSWTCH2 "Double MG"
@@ -657,6 +662,7 @@ item translateUCSWAPB1 "Bomb-Bay"
 item translateUCSWAPB2 "Bomb-Bay UPG1"
 
 // Building weapons
+
 item translateUCSCSD "SDI-Laser"
 item translateUCSCSCH1 "MG"
 item translateUCSCSCH2 "MG UPG1"
@@ -763,7 +769,7 @@ item translateLCCHS2 "Heavy Sonic Cannon UPG1"
 item translateLCCSD "LC SDI Defense"
 
 
-// Other equipment -----------------------------------
+// Other Equipment -----------------------------------
 
 item translateShortUCSWSH1 "SCH"
 item translateUCSWSH1 "Shadow Generator"
@@ -1179,7 +1185,7 @@ item translateRES_UCS_SHD2 "Upg: Shadow Generator I"
 item translateRES_UCS_SHD3 "Upg: Shadow Generator II"
 item translateRES_UCS_SHD4 "Upg: Shadow Generator III"
 
-//Neutral
+// Neutral
 
 item translateRES_MCH2 "Upg: MG Bullets (Damage: 20)"
 item translateRES_MCH3 "Upg: MG Bullets (Damage: 25)"
