@@ -1,6 +1,6 @@
 # Description #
 
-Patch 2.3 is an InsideEarth Community Developed balancing update for The Moon Project and Lost Souls (Earth 2150 Expansions). 
+Update 2.3 is an InsideEarth Community Developed balancing update for The Moon Project and Lost Souls (Earth 2150 Expansions). 
 
 The update will include the following.
 
