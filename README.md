@@ -14,7 +14,7 @@ The update will include the following.
 
 ## Reporting bugs, improvements, requesting features, etc. ##
 
-You can create new issues or feature requests here or join the IEO community on [Discord][DiscordLink] for further details.
+You can create new issues or feature requests here or join the IE community on [Discord][DiscordLink] for further details.
 
 [DiscordLink]: https://discord.gg/yxtzdUZ
 
