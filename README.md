@@ -1,16 +1,18 @@
 # Description #
 
-Patch 2.3 is an InsideEarth Community Deloped balancing update for The Moon Project and Lost Souls (Earth 2150 Expansions). 
+Patch 2.3 is an InsideEarth Community Developed balancing update for The Moon Project and Lost Souls (Earth 2150 Expansions). 
 
-The included scripts open new useful possibilities of the game.
+The update will include the following.
 
-## New & Fixed Scripts ##
+- New & Fixed Scripts
 
-## Exhanced DES Game Type ###
+- Fixed ingame bugs present in 2.2
 
-## Fixed Executable ##
+- Enhanced DES Game Type
 
-# Reporting bugs, improvements, requesting features, etc. #
+- Fixed Executable
+
+## Reporting bugs, improvements, requesting features, etc. ##
 
 You can create new issues or feature requests here or join the IEO community on [Discord][DiscordLink] for further details.
 
