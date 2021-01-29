@@ -2,11 +2,11 @@
 
 Update 2.3 is an InsideEarth Community Developed balancing update for The Moon Project and Lost Souls (Earth 2150 Expansions). 
 
-The update aims to include the following.
+The update aims to include the following;
 
 - New & Fixed Scripts
 
-- Fixed ingame bugs present in 2.2
+- Fix existing v2.2 ingame bugs
 
 - Enhanced DES Game Type
 
