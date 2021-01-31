@@ -2,6 +2,10 @@
 
 Update 2.3 is an InsideEarth Community Developed balancing update for The Moon Project and Lost Souls (Earth 2150 Expansions). 
 
+<img alt="Issues: Open" src="https://img.shields.io//github/issues/lnsideEarth2150/IEO-Updates"/>
+<img alt="Issues: Open" src="https://img.shields.io/github/issues-raw/lnsideEarth2150/IEO-Updates"/> 
+<img alt="Issues: Closed" src="https://img.shields.io/github/issues-closed/lnsideEarth2150/IEO-Updates"/>
+
 The update aims to include the following;
 
 - New & Fixed Scripts
@@ -16,5 +20,11 @@ The update aims to include the following;
 
 You can create new issues or feature requests here or join the IE community on [Discord][DiscordLink] for further details.
 
-[DiscordLink]: https://discord.gg/yxtzdUZ
+## Links
+* InsideEARTH Discord: [discord.gg/yxtzdUZ](https://discord.gg/yxtzdUZ)
+* Website: [www.insideEARTH.info](http://www.insideEARTH.info)
 
+#### Visit Discord for more information.
+<a href="https://discord.gg/yxtzdUZ"><img alt="Discord" src="https://img.shields.io/discord/572336961143177216?color=Green&label=Discord&style=flat"/></a>
+
+[DiscordLink]: https://discord.gg/yxtzdUZ
