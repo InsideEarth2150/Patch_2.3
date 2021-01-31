@@ -14,6 +14,9 @@ The update aims to include the following;
 
 - Fixed Executable
 
+## Contibuting
+* If you wish to contibute to this development and want to add your code feel free. Simply Fork the repository or for a specific file, just click the icon for modifying the file and GitHub will automatically create a fork, branch and pull request for you, which we can review and then merge in.
+
 ## Reporting bugs, improvements, requesting features, etc. ##
 
 You can create new issues or feature requests here or join the IE community on [Discord][DiscordLink] for further details.
