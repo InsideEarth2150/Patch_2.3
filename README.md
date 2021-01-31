@@ -2,9 +2,7 @@
 
 Update 2.3 is an InsideEarth Community Developed balancing update for The Moon Project and Lost Souls (Earth 2150 Expansions). 
 
-<img alt="Issues: Open" src="https://img.shields.io/github/issues/InsideEarth2150/IEO-Updates"/>
-<img alt="Issues: Open" src="https://img.shields.io/github/issues-raw/InsideEarth2150/IEO-Updates"/> 
-<img alt="Issues: Closed" src="https://img.shields.io/github/issues-closed/InsideEarth2150/IEO-Updates"/>
+<img alt="Issues: Open" src="https://img.shields.io/github/issues/InsideEarth2150/IEO-Updates"/> <img alt="Issues: Closed" src="https://img.shields.io/github/issues-closed/InsideEarth2150/IEO-Updates"/>
 
 The update aims to include the following;
 
