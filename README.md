@@ -1,6 +1,25 @@
 # Description #
 
-Update 2.2 Base Developed by InsideEarth Operations for The Moon Project and Lost Souls (Earth 2150 Expansions). 
+Update 2.2.1 is developed by InsideEarth Operations for The Moon Project and Lost Souls (Earth 2150 Expansions). 
+
+<img alt="Issues: Open" src="https://img.shields.io/github/issues/InsideEarth2150/IEO-Updates"/> <img alt="Issues: Closed" src="https://img.shields.io/github/issues-closed/InsideEarth2150/IEO-Updates"/>
+
+The update aims to include the following;
+
+- New & Fixed Scripts
+
+- Fix existing v2.2 ingame bugs
+
+- Enhanced DES Game Type
+
+- Fixed Executable
+
+## Contibuting
+* If you wish to contibute to this development and want to add your code feel free. Simply Fork the repository or for a specific file, just click the icon for modifying the file and GitHub will automatically create a fork, branch and pull request for you, which we can review and then merge in.
+
+## Reporting bugs, improvements, requesting features, etc. ##
+
+You can create new issues or feature requests here or join the IE community on [Discord][DiscordLink] for further details.
 
 ## Links
 * InsideEARTH Discord: [discord.gg/yxtzdUZ](https://discord.gg/yxtzdUZ)

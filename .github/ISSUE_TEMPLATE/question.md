@@ -2,7 +2,7 @@
 name: Question
 about: ask your question
 title: ''
-labels: ''
+labels: Needs Triage
 assignees: ''
 
 ---
