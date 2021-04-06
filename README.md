@@ -1,6 +1,6 @@
 # Description #
 
-Update 2.2.1 is developed by InsideEarth Operations for The Moon Project and Lost Souls (Earth 2150 Expansions). 
+These updatess are developed by InsideEarth Operations for The Moon Project and Lost Souls (Earth 2150 Expansions). 
 
 <img alt="Issues: Open" src="https://img.shields.io/github/issues/InsideEarth2150/IEO-Updates"/> <img alt="Issues: Closed" src="https://img.shields.io/github/issues-closed/InsideEarth2150/IEO-Updates"/>
 
